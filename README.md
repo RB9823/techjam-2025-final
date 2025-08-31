@@ -2,7 +2,7 @@
 
 **Automated detection and validation of UI inconsistencies using multimodal AI pipeline**
 
-[![Demo Video](https://img.shields.io/badge/📹_Live_Demo-Watch_Pipeline-blue?style=for-the-badge)](./demo_v2.mp4)
+[![Demo Video](https://img.shields.io/badge/📹_Live_Demo-Watch_Pipeline-blue?style=for-the-badge)](https://youtu.be/YR7vWc5B01Q)
 
 *Click above to watch: Real-time AI pipeline detecting UI transition states across dynamic interfaces*
 
