@@ -1,0 +1,9 @@
+Debug Images for Job: fba2406b-07f2-4970-ab58-1699986813df
+Region of Interest: heart icon
+Before Elements Count: 1
+After Elements Count: 1
+Total Cropped Images: 2
+
+Cropped Images:
+  - debug_output/final_comparison/fba2406b-07f2-4970-ab58-1699986813df/before_element_1_crop.png
+  - debug_output/final_comparison/fba2406b-07f2-4970-ab58-1699986813df/after_element_1_crop.png
